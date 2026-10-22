@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.ckpt
+model_checkpoint/*
+!model_checkpoint/.gitkeep
